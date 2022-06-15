@@ -6,8 +6,8 @@ Modern, undetectable, open-source. Auto Clicker for Minecraft.
 ## Features
 
 - Modern
-- undetectable
-- open-source
+- Undetectable
+- Open-source
 - Better than others
 
 
